@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#picture_of_me{
+    width: 150px;
+    height: 300px;
+}
+
+h3 {
+  color: blue;
+}
+
+table {
+  border: 1px solid black;
+}
+
+th, td {
+    border: 1px solid black;
+}
